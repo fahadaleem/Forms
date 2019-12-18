@@ -1,0 +1,53 @@
+body
+{
+    background-color: #419BE2;
+}
+
+.row
+{
+    color:white;
+    padding-top:10%;
+    
+}
+
+a:hover
+{
+    color: #419BE2 !important;
+}
+
+.form-body
+{
+    background-color: white;
+    color:black;
+    padding:10px;
+    padding-bottom: 50px;
+}
+
+
+h2
+{
+   text-transform: uppercase;
+   font-size: 45px;
+}
+
+span
+{
+    color:#0680F1;
+}
+
+.form-control
+{
+    border-top:none;
+    border-right: none;
+    border-left: none;
+    font-size: 18px;
+    outline:none !important;
+}
+
+.btn
+{
+    padding-left:80px;
+    padding-right: 80px;
+    border-radius: 20px;
+
+}
